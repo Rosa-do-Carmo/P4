@@ -1,5 +1,6 @@
 :root {
-  font-family: 'Iosevka';
+  font-family: sans-serif;
+  color: #117a93;
 }
 
 body {
@@ -7,8 +8,10 @@ body {
   display: block;
   position: relative;
   background-color: #ede7d7;
-  background-image: url('https://cdn.discordapp.com/attachments/594581200249684084/1173598288017113108/chars-trnas-2.png?ex=65648994&is=65521494&hm=d6dd9f07b4a4fede8842c17808074f3ceae682aa027764ede9f7656f6c754b99&');
-  background-size: contain;
+  background-color: #d6d3c9;
+  background-image: url("https://cdn.discordapp.com/attachments/594581200249684084/1176115245585014784/bg-tmp.png");
+  /*background-image: url('https://cdn.discordapp.com/attachments/594581200249684084/1173598288017113108/chars-trnas-2.png');
+  */background-size: contain;
   background-position: center bottom;
   background-repeat: no-repeat;
   width: 100%;
@@ -18,25 +21,46 @@ body {
 }
 #wrapper {
   width: 100%;
-}
+}/*
 header {
-  height: 70vh;
+  height: 50vh;
+}*/
+
+main {
+  width: 60%;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+article {
+  min-width: 10%;
+  max-width: 40%;
+  max-height: 15vh;
+  margin: 2vh auto;
+  border-radius: 10px;
+  border: 2px solid #9d9d9d;
+  background-color: #ffffff77;
+  min-height: 25px;
+  padding: 10px;
+  line-height: 100%;
 }
 
 #selected {
-  float: left;
+  
   padding: 25px;
-  width: 30vw;
+  width: 100%;
   
 }
-h1 {
+h2 {
   position:relative;
   margin: 0 auto;
   width: 60%;
   text-align: center;
-  padding-top: 10%;
   line-height: 60%;
   font-size: 150%;
+}
+br {
+  line-height: 100%;
 }
 strong {
   border: 1px #9d9d9d solid;
@@ -59,11 +83,13 @@ nav {
   justify-content: space-evenly;
 }
 
-a {
+a, a:visited {
+  color: #117a93;
+  text-decoration: none;
+  text-decoration-color: #000;
   font-variant: small-caps;
   vertical-align: middle;
   display: inline-block;
-  border-radius: 50%;
   background-color: #ede7d777;
   margin: auto;
   border: 2px solid #9d9d9d;
@@ -78,35 +104,80 @@ a {
   border: 2px solid blue;
 }
 #big {
-  line-height: 150px;
+  border-radius: 25px;
+  line-height: 50px;
   width:150px;
-  height: 150px;
+  height: 50px;
   transition: 0.3s;
 }
 #big:hover {
-  border-radius: 10%;
+  border-radius: 10px;
   transition: 0.3s;
 }
 #small {
+  border-radius: 10px;
   width: 50px;
   height: 50px;
+  margin-top: 10vh;
   line-height: 50px;
   font-size: 50%;
 }
 
-main {
-  width: 60%;
-  justify-content: center;
+#top {
+  padding-top: 5vh;
+}
+#top-nav {
+  justify-content: unset;
+  width: 80%;
   margin: 0 auto;
 }
+hr {
+  width: 80%;
+}
+ #dot {
+  width: 20px;
+  height:20px;
+  background-color: #117a93;
+  border-radius: 50%;
+  border: none;
+  margin-left: 0;
+  margin-right: 20px;
+ }
+ #space {
+  width: 70%;
+ }
+ #textbox {
+  width: 20%;
+  text-align: right;
+  margin-left: 0;
+  border: 2px #117a93 solid;
+  border-radius: 20px;
+  padding-right: 2vw;
+ }
 
-article {
-  width: 60%;
+ h1 {
+  position:relative;
   margin: 0 auto;
-  border-radius: 10px;
-  border: 2px solid #9d9d9d;
-  background-color: #ffffff77;
-  min-height: 25px;
-  padding: 10px;
-  line-height: 150%;
+  width: 60%;
+  text-align: center;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  font-size: 200%;
+  font-style: bold;
+}
+#start {
+  width: 20vw;
+  height: 10vh;
+  line-height: 10vh;
+  border-radius: 5vh;
+}
+
+footer {
+  position: absolute;
+  height: 100px;
+  width: 100%;
+  background-image: url("https://cdn.discordapp.com/attachments/594581200249684084/1176118038270050374/wave.png");
+  background-repeat: repeat-x;
+  margin-bottom: 0;
+  bottom: 0;
 }
