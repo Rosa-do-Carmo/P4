@@ -11,47 +11,55 @@
 
 <body>
   <div id="wrapper">
-  <header>
-    <div id="top">
-      <nav id="top-nav">
+    <header>
+      <div id="top">
+        <nav id="top-nav">
           <a href="index.html" id="dot"></a>
           <p>balala</p>
           <p id="space"></p>
           <p id="textbox">ioioioioi</p>
-      </nav>
-      <hr>
-      <div>
-      </header>
-      <main></main>
-    <h2>dsjfsdjflkj<br>jf</h1>
-    <article>
-      <p>sfjasd<br>hgjldsjfldskhastlk</p>
-    </article>
+        </nav>
+        <hr>
+        <div>
+    </header>
+    <main></main>
+      <article>
+        <p>sfjasd<br>hgjldsjfldskhastlk</p>
+      </article>
 
 
-    <div id="boxes">
-      <nav>
-        <a id="big" class="a">a</a>
-        <a id="big" class="b">b</a>
-        <a id="big" class="c">c</a>
-      </nav>
-    </div>
-    <div id="selected">
-      <nav>
-        <a id="small" id="a">1</a>
-        <a id="small" id="a">2</a>
-        <a id="small" id="c">3</a>
-        <a id="small" id="b">4</a>
-        <a id="small">5</a>
-        <a id="small">6</a>
-      </nav>
-    </div>
-  </main>
-  <footer>
-    <div id="waves"></div>
-</footer>
+      <div id="boxes">
+        <nav>
+          <button onclick="move()"><a  id="big" class="a">a</a></button>
+          <button onclick="move()"><a id="big" class="b">b</a></button>
+            <button onclick="move()"><a id="big" class="c">c</a></button>
+        </nav>
+      </div>
+      <div id="selected">
+        <nav id="small">
+          <div id="progress-bar"></div>
+        </nav>
+      </div>
+      </main>
+      <footer>
+        <div id="waves"></div>
+      </footer>
   </div>
 </body>
-
+<script>
+  function move() {
+    var elem = document.getElementById("progress-bar");   
+    var width = 10;
+    var id = setInterval(frame, 10);
+  function frame() {
+    if (width >= 20) {
+      clearInterval(id);
+    } else {
+      width++; 
+      elem.style.width = width + '%'; 
+      // elem.innerHTML = width * 1  + '%';
+    }
+  }
+}
+  </script>
 </html>
-

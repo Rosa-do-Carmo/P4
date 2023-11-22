@@ -1,3 +1,7 @@
+@font-face {
+  font-family: titlefont;
+  src: url('Womby-Regular.ttf');
+}
 :root {
   font-family: sans-serif;
   color: #117a93;
@@ -35,7 +39,7 @@ main {
 article {
   min-width: 10%;
   max-width: 40%;
-  max-height: 15vh;
+  height: 30vh;
   margin: 2vh auto;
   border-radius: 10px;
   border: 2px solid #9d9d9d;
@@ -45,12 +49,6 @@ article {
   line-height: 100%;
 }
 
-#selected {
-  
-  padding: 25px;
-  width: 100%;
-  
-}
 h2 {
   position:relative;
   margin: 0 auto;
@@ -71,8 +69,12 @@ strong {
 #boxes {
   padding: 5% 0;
   margin: 0 auto;
-  height: 10vh;
+  height: 26vh;
   width:60%;
+  border-radius: 10px;
+  border: 2px solid #9d9d9d;
+  background-color: #ffffff77;
+  padding: 10px;
 } 
 
 nav {
@@ -103,26 +105,43 @@ a, a:visited {
 .c {
   border: 2px solid blue;
 }
-#big {
+#big, button {
   border-radius: 25px;
   line-height: 50px;
   width:150px;
   height: 50px;
   transition: 0.3s;
 }
+button {
+  width: 15vw;
+}
 #big:hover {
   border-radius: 10px;
   transition: 0.3s;
 }
-#small {
-  border-radius: 10px;
-  width: 50px;
-  height: 50px;
-  margin-top: 10vh;
-  line-height: 50px;
-  font-size: 50%;
-}
 
+#selected {
+  
+  padding-left: 25px;
+  width: 50%;
+  margin: 0 auto;
+}
+#small {
+  background-color: #d6d3c9;
+  border: none;
+  border-radius: 0px;
+  height: 12px;
+  margin-top: 5vh;
+  line-height: 13px;
+  font-size: 50%;
+  align-content: start;
+}
+#progress-bar {
+  color: #d6d3c9;
+  background-color: #117a93;
+  width: 10%;
+  margin-left: 0;
+}
 #top {
   padding-top: 5vh;
 }
@@ -164,6 +183,7 @@ hr {
   padding-bottom: 10vh;
   font-size: 200%;
   font-style: bold;
+  font-family: titlefont;
 }
 #start {
   width: 20vw;
@@ -181,3 +201,4 @@ footer {
   margin-bottom: 0;
   bottom: 0;
 }
+
