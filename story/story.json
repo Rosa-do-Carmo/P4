@@ -1,0 +1,58 @@
+{
+    "Part1": {
+        "Version": [
+            {
+                "Text": "primeira variante"
+            },
+            {
+                "Text": "segunda variante"
+            },
+            {
+                "Text": "terceira variante"
+            }
+        ],
+        "Leads": 2
+    },
+    "Part2": {
+        "Version": [
+            {
+                "Text": "fjljfsdljflç"
+            },
+            {
+                "Text": "fjljfsdljflç"
+            },
+            {
+                "Text": "fjljfsdljflç"
+            }
+        ],
+        "Leads": 3
+    },
+    "Part3": {
+        "Version": [
+            {
+                "Text": "fjljfsdljflç"
+            },
+            {
+                "Text": "fjljfsdljflç"
+            },
+            {
+                "Text": "fjljfsdljflç"
+            }
+        ],
+        "Leads": 4
+    },
+    "Part4": {
+        "Version": [
+            {
+                "Text": "fjljfsdljflç"
+            },
+            {
+                "Text": "fjljfsdljflç"
+            },
+            {
+                "Text": "fjljfsdljflç"
+            }
+        ],
+        "Leads": 5
+    }
+}
