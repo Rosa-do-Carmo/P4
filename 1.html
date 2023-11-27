@@ -7,6 +7,7 @@
   <title>HTML5 Boilerplate</title>
   <link rel="stylesheet" href="data/reset.css">
   <link rel="stylesheet" href="data/styles.css">
+  <script></script>
 </head>
 
 <body>
@@ -23,43 +24,25 @@
         <div>
     </header>
     <main></main>
-      <article>
-        <img src="https://cdn.discordapp.com/attachments/594581200249684084/1177188569371119616/illust1.png" alt="">
-      </article>
+    <article>
+      <img src="https://cdn.discordapp.com/attachments/594581200249684084/1178652732232564756/illust1.png" alt="">
+    </article>
 
 
-      <div id="boxes">
-        <nav><p>    Lorem ipsum dolor sit amet, consectetur adipiscing<a class="a" id="big" >hgf</a> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<a class="b" id="big" >bfhjfhj</a> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris <a class="c" id="big" >cfhgfhjf</a>nisi ut aliquip ex ea commodo consequat.</p>
-         <!-- <button onclick="move()" class="a"><a id="big" >a</a></button>
-          <button onclick="move()" class="b"><a id="big" >b</a></button>
-          <button onclick="move()" class="c"><a id="big" >c</a></button> -->
-        </nav>
-      </div>
-      <div id="selected">
-        <nav id="small">
-          <div id="progress-bar"></div>
-        </nav>
-      </div>
-      </main>
-      <footer>
-        <div id="waves"></div>
-      </footer>
+    <div id="boxes">
+      <nav>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing<button class="a" id="big">hgf</button> elit, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua.<button class="b" id="big">bfhjfhj</button> Ut enim ad minim veniam, quis
+          nostrud exercitation ullamco laboris <button class="c" id="big">cfhgfhjf</button>nisi ut aliquip ex ea commodo
+          consequat.</p>
+      </nav>
+    </div>
+    </main>
+    <footer>
+      <div id="waves"></div>
+    </footer>
   </div>
 </body>
-<script>
-  function move() {
-    var elem = document.getElementById("progress-bar");   
-    var width = 10;
-    var id = setInterval(frame, 10);
-  function frame() {
-    if (width >= 20) {
-      clearInterval(id);
-    } else {
-      width++; 
-      elem.style.width = width + '%'; 
-      // elem.innerHTML = width * 1  + '%';
-    }
-  }
-}
-  </script>
+<script src="data/app.js"></script>
+
 </html>
