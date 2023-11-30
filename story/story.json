@@ -6,13 +6,13 @@
                     {
                         "Version": [
                             {
-                                "Text": "Algures, o meio do <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"pathA();this.parentNode.removeChild(this);\" >mar</a>, há um lugar de que nunca se ouviu falar – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos <a href=\"1.html\" class=\"b\" id=\"big\">peculiares</a>, esconde um segredo: está camuflada por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena <a href=\"1.html\" class=\"c\" id=\"big\">cumunidade</a> secreta: a Tribo das Bananas."
+                                "Text": "Algures, o meio do <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"pathA()\" >mar</a>, há um lugar de que nunca se ouviu falar – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos <a href=\"1.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">peculiares</a>, esconde um segredo: está camuflada por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena cumunidade secreta: a Tribo das Bananas."
                             },
                             {
-                                "Text": "Algures, o meio do mar, há um <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"pathA();this.parentNode.removeChild(this);\">lugar</a> de que nunca se ouviu falar – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos peculiares, esconde um <a href=\"1.html\" class=\"b\" id=\"big\">segredo:</a> está camuflada por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena comunidade secreta: a <a href=\"1.html\" class=\"c\" id=\"big\">Tribo</a> das Bananas."
+                                "Text": "Algures, o meio do mar, há um <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"pathA()\">lugar</a> de que nunca se ouviu falar – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos peculiares, esconde um <a href=\"1.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">segredo:</a> está camuflada por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena comunidade secreta: a Tribo das Bananas."
                             },
                             {
-                                "Text": "Algures, o meio do mar, há um lugar de que nunca se ouviu <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"pathA();this.parentNode.removeChild(this);\" >falar</a> – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos peculiares, esconde um segredo: está <a href=\"1.html\" class=\"b\" id=\"big\">camuflada</a> por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã <a href=\"1.html\" class=\"c\" id=\"big\">proveniente</a> de uma pequena comunidade secreta: a Tribo das Bananas."
+                                "Text": "Algures, o meio do mar, há um lugar de que nunca se ouviu <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"pathA()\" >falar</a> – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos peculiares, esconde um segredo: está <a href=\"1.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">camuflada</a> por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena comunidade secreta: a Tribo das Bananas."
                             }
                         ]
                     }
@@ -25,26 +25,26 @@
                     {
                         "Version": [
                             {
-                                "Text": "<a class=\"a\" id=\"big\" onclick=\"pathA()\">mar</a>11Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à distância das janelas da biblioteca."
+                                "Text": "Esta ilha <a class=\"a\" id=\"big\" href=\"2.html\" onclick=\"pathA()\">desconhecida</a> vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">harmonia</a> e prosperidade com os demais habitantes. A felicidade nota-se à distância das janelas da biblioteca."
                             },
                             {
-                                "Text": "1Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à distância das janelas da biblioteca."
+                                "Text": "Esta ilha desconhecida <a class=\"a\" id=\"big\" href=\"2.html\" onclick=\"pathA()\">vive</a> em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">felicidade</a> nota-se à distância das janelas da biblioteca."
                             },
                             {
-                                "Text": "1Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à distância das janelas da biblioteca."
+                                "Text": "Esta ilha desconhecida vive em paz e o seu <a class=\"a\" id=\"big\" href=\"2.html\" onclick=\"pathA()\">povo</a>, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">distância</a> das janelas da biblioteca."
                             }
                         ]
                     },
                     {
                         "Version": [
                             {
-                                "Text": "2Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. Enquanto o céu não cair, todos são felizes."
+                                "Text": "Esta ilha desconhecida vive em <a class=\"a\" href=\"2.html\" id=\"big\" onclick=\"pathA()\" >paz</a> e o seu povo, governado pelo respeitado Rei Macaco, coabita em <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">harmonia</a> e prosperidade com os demais habitantes. Enquanto o céu não cair, todos são felizes."
                             },
                             {
-                                "Text": "2Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. Enquanto o céu não cair, todos são felizes."
+                                "Text": "Esta <a class=\"a\" href=\"2.html\" id=\"big\" onclick=\"pathA()\" >ilha</a> desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">prosperidade</a> com os demais habitantes. Enquanto o céu não cair, todos são felizes."
                             },
                             {
-                                "Text": "2Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. Enquanto o céu não cair, todos são felizes."
+                                "Text": "Esta ilha desconhecida vive em paz e o seu <a class=\"a\" href=\"2.html\" id=\"big\" onclick=\"pathA()\" >povo</a>, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">habitantes</a>. Enquanto o céu não cair, todos são felizes."
                             }
                         ]
                     }
@@ -57,13 +57,26 @@
                     {
                         "Version": [
                             {
-                                "Text": "primeira variante"
+                                "Text": "Sheldon Goulan, <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">professor</a> e historiador, é um dos poucos ilhences que leva uma vida silenciosa; passa horas na sua biblioteca a estudar os costumes e <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">hábitos</a> da Tribo das Bananas, o sagrado povo ancestral da Ilha Azul.<br>“Assim o disse Bananis Lobios I, primeiro mago da tribo: ‘Protegeremos com ciano o que de mais sagrado nos oferece esta terra’ e desde então se mantém escondido”, citou o Professor.<br>“ATCHIM!” espirrou Vasco Pimentinha, o seu estudante e aprendiz.<br>“Salve-te a Banana Mágica”, saudou-o Goulan.<br>"
                             },
                             {
-                                "Text": "segunda variante"
+                                "Text": "Sheldon Goulan, professor e <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">historiador</a> , é um dos poucos ilhences que leva uma vida silenciosa; passa horas na sua biblioteca a estudar os costumes e hábitos da Tribo das Bananas, o <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">sagrado</a> povo ancestral da Ilha Azul.<br>“Assim o disse Bananis Lobios I, primeiro mago da tribo: ‘Protegeremos com ciano o que de mais sagrado nos oferece esta terra’ e desde então se mantém escondido”, citou o Professor.<br>“ATCHIM!” espirrou Vasco Pimentinha, o seu estudante e aprendiz.<br>“Salve-te a Banana Mágica”, saudou-o Goulan.<br>"
                             },
                             {
-                                "Text": "terceira variante"
+                                "Text": "Sheldon <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">Goulan</a>, professor e historiador, é um dos poucos ilhences que leva uma vida silenciosa; passa horas na sua biblioteca a estudar os costumes e hábitos da Tribo das Bananas, o sagrado povo <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">ancestral</a> da Ilha Azul.<br>“Assim o disse Bananis Lobios I, primeiro mago da tribo: ‘Protegeremos com ciano o que de mais sagrado nos oferece esta terra’ e desde então se mantém escondido”, citou o Professor.<br>“ATCHIM!” espirrou Vasco Pimentinha, o seu estudante e aprendiz.<br>“Salve-te a Banana Mágica”, saudou-o Goulan.<br>"
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "Pimentinha, ou o <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">Vasco</a>, é ajudante e aprendiz do Professor Goulan, um sábio historiador famoso entre os habitantes da ilha.<br>“Atchim!”, espirrou novamente. “Peço desculpa, Professor, esta sinusite dá cabo de mim…”<br>“Salve-te a <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">Banana</a> Mágica”, saudou-o o historiador. “Concentra-te.”"
+                            },
+                            {
+                                "Text": "Pimentinha, ou o Vasco, é ajudante e <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">aprendiz</a> do Professor Goulan, um sábio historiador famoso entre os habitantes da ilha.<br>“Atchim!”, espirrou novamente. “Peço desculpa, Professor, esta sinusite dá cabo de mim…”<br>“Salve-te a Banana Mágica”, saudou-o o <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">historiador</a>. “Concentra-te.”"
+                            },
+                            {
+                                "Text": "Pimentinha, ou o Vasco, é ajudante e aprendiz do Professor <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">Goulan</a>, um sábio historiador famoso entre os habitantes da ilha.<br>“Atchim!”, espirrou novamente. “Peço desculpa, Professor, esta <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">sinusite</a> dá cabo de mim…”<br>“Salve-te a Banana Mágica”, saudou-o o historiador. “Concentra-te.”"
                             }
                         ]
                     }
