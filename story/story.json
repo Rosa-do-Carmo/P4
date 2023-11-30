@@ -1,58 +1,93 @@
 {
-    "Part1": {
-        "Version": [
-            {
-                "Text": "primeira variante"
-            },
-            {
-                "Text": "segunda variante"
-            },
-            {
-                "Text": "terceira variante"
+    "Story": [
+        {
+            "Part": {
+                "Variant": [
+                    {
+                        "Version": [
+                            {
+                                "Text": "Algures, o meio do <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"var v = 1\" >mar</a>, há um lugar de que nunca se ouviu falar – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos <a href=\"1.html\" class=\"b\" id=\"big\">peculiares</a>, esconde um segredo: está camuflada por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena <a href=\"1.html\" class=\"c\" id=\"big\">cumunidade</a> secreta: a Tribo das Bananas."
+                            },
+                            {
+                                "Text": "Algures, o meio do mar, há um <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"var v = 1\">lugar</a> de que nunca se ouviu falar – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos peculiares, esconde um <a href=\"1.html\" class=\"b\" id=\"big\">segredo:</a> está camuflada por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena comunidade secreta: a <a href=\"1.html\" class=\"c\" id=\"big\">Tribo</a> das Bananas."
+                            },
+                            {
+                                "Text": "Algures, o meio do mar, há um lugar de que nunca se ouviu <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"var v = 1\" >falar</a> – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos peculiares, esconde um segredo: está <a href=\"1.html\" class=\"b\" id=\"big\">camuflada</a> por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã <a href=\"1.html\" class=\"c\" id=\"big\">proveniente</a> de uma pequena comunidade secreta: a Tribo das Bananas."
+                            }
+                        ]
+                    }
+                ]
             }
-        ],
-        "Leads": 2
-    },
-    "Part2": {
-        "Version": [
-            {
-                "Text": "fjljfsdljflç"
-            },
-            {
-                "Text": "fjljfsdljflç"
-            },
-            {
-                "Text": "fjljfsdljflç"
+        },
+        {
+            "Part": {
+                "Variant": [
+                    {
+                        "Version": [
+                            {
+                                "Text": "<a class=\"a\" id=\"big\" onclick=\"var v = 1\" >mar</a>1Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à distância das janelas da biblioteca."
+                            },
+                            {
+                                "Text": "1Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à distância das janelas da biblioteca."
+                            },
+                            {
+                                "Text": "1Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à distância das janelas da biblioteca."
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "2Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. Enquanto o céu não cair, todos são felizes."
+                            },
+                            {
+                                "Text": "2Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. Enquanto o céu não cair, todos são felizes."
+                            },
+                            {
+                                "Text": "2Esta ilha desconhecida vive em paz e o seu povo, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. Enquanto o céu não cair, todos são felizes."
+                            }
+                        ]
+                    }
+                ]
             }
-        ],
-        "Leads": 3
-    },
-    "Part3": {
-        "Version": [
-            {
-                "Text": "fjljfsdljflç"
-            },
-            {
-                "Text": "fjljfsdljflç"
-            },
-            {
-                "Text": "fjljfsdljflç"
+        },
+        {
+            "Part": {
+                "Variant": [
+                    {
+                        "Version": [
+                            {
+                                "Text": "primeira variante"
+                            },
+                            {
+                                "Text": "segunda variante"
+                            },
+                            {
+                                "Text": "terceira variante"
+                            }
+                        ]
+                    }
+                ]
             }
-        ],
-        "Leads": 4
-    },
-    "Part4": {
-        "Version": [
-            {
-                "Text": "fjljfsdljflç"
-            },
-            {
-                "Text": "fjljfsdljflç"
-            },
-            {
-                "Text": "fjljfsdljflç"
+        },
+        {
+            "Part": {
+                "Variant": [
+                    {
+                        "Version": [
+                            {
+                                "Text": "primeira variante"
+                            },
+                            {
+                                "Text": "segunda variante"
+                            },
+                            {
+                                "Text": "terceira variante"
+                            }
+                        ]
+                    }
+                ]
             }
-        ],
-        "Leads": 5
-    }
+        }
+    ]
 }

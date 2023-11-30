@@ -4,17 +4,18 @@
 }
 :root {
   font-family: sans-serif;
-  color: #117a93;
-  --col1: #70ae6e;
-  --col2: #3c6e71;
+  color: #093e4c;
+  --col1: #117a93;
+  --col2: #beee62;
   --col3: #f7743b;
+  --bg: #d2ceb7;
 }
 
 body {
   font-size:200%;
   display: block;
   position: relative;
-  background-color: #ede7d7;
+  background-color: var(--bg);
   background-color: #d6d3c9;
   background-image: url("https://cdn.discordapp.com/attachments/594581200249684084/1178651731958169620/bg.png");
   background-size:cover;
@@ -33,7 +34,7 @@ header {
 }*/
 
 main {
-  width: 60%;
+  width: 100%;
   justify-content: center;
   margin: 0 auto;
 }
@@ -79,7 +80,7 @@ strong {
   width:60%;
   border-radius: 10px;
   border: 2px solid #9d9d9d;
-  background-color: #ffffff77;
+  background-color: #ffffff00;
   padding: 10px;
 } 
 
@@ -92,7 +93,6 @@ nav {
 }
 
 a, a:visited {
-  color: #117a93;
   text-decoration: none;
   text-decoration-color: #000;
   /*font-variant: small-caps;
@@ -126,7 +126,7 @@ a, a:visited {
   border-radius: 10px;
   transition: 0.3s;
 }
-button {
+button, a {
   cursor: pointer;
   line-height: 25px;
   /* width:150px;
