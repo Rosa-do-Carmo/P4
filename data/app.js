@@ -1,3 +1,8 @@
+if (location.pathname.split('/').pop().replace(/.html/gi, '') == "index") {
+    var v = 0;
+    localStorage.setItem("v", v);
+}
+
 var r = Math.floor(Math.random() * 3);
 var r1 = Math.floor(Math.random() * 3);
 if (window.performance) {
