@@ -14,7 +14,9 @@ if (window.performance) {
 };
 var v = localStorage.getItem("v");
 var p = location.pathname.split('/').pop().replace(/.html/gi, '');
-console.log(p)
+console.log(p + '-' + v + '-' + r)
+
+document.querySelector('#textbox').innerHTML = p + '-' + v + '-' + r;
 
 fetch('../story/story.json')
     .then(response => response.json())

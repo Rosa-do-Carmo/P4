@@ -89,13 +89,193 @@
                     {
                         "Version": [
                             {
-                                "Text": "primeira variante"
+                                "Text": "A calmaria costumeira das manhãs <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">solarengas</a> de quarta-feira foi bruscamente interrompida por súbitos gritos de desespero que <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">fizeram</a> ambos professor e aprendiz abandonar a biblioteca para constatar a desgraça que estava a <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">acontecer</a>: a barreira protetora tinha um buraco e estava a desaparecer!"
                             },
                             {
-                                "Text": "segunda variante"
+                                "Text": "A calmaria costumeira das manhãs <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">solarengas</a> de quarta-feira foi bruscamente interrompida por súbitos gritos de desespero que fizeram ambos professor e <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">aprendiz</a> abandonar a biblioteca para constatar a desgraça que estava a acontecer: a barreira <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">protetora</a> tinha um buraco e estava a desaparecer!"
                             },
                             {
-                                "Text": "terceira variante"
+                                "Text": "A calmaria costumeira das manhãs <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">solarengas</a> de quarta-feira foi bruscamente interrompida por súbitos gritos de desespero que fizeram ambos professor e aprendiz abandonar a biblioteca para constatar a <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">desgraça</a> que estava a acontecer: a barreira protetora tinha um buraco e estava a <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">desaparecer</a>!"
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "O espirro do Pimetinha não atrapalhou a leitura, mas os <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">súbitos</a> gritos de desespero que se fizeram ouvir fizeram o Professor abandonar o último volume da coleção “Magia em <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">Fibra</a> de Potássio” e constatar o pior: a barreira estava a desaparecer!<br>“As fibras são como cestos de vime; quando uma rompe, o <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">buraco</a> surge” citou num murmúrio o autor do livro que deixara para trás."
+                            },
+                            {
+                                "Text": "O espirro do Pimetinha não atrapalhou a leitura, mas os <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">súbitos</a> gritos de desespero que se fizeram ouvir fizeram o Professor abandonar o último volume da coleção “Magia em <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">Fibra</a> de Potássio” e constatar o pior: a barreira estava a desaparecer!<br>“As fibras são como cestos de vime; quando uma rompe, o <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">buraco</a> surge” citou num murmúrio o autor do livro que deixara para trás."
+                            },
+                            {
+                                "Text": "O espirro do Pimetinha não atrapalhou a leitura, mas os <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">súbitos</a> gritos de desespero que se fizeram ouvir fizeram o Professor abandonar o último volume da coleção “Magia em <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">Fibra</a> de Potássio” e constatar o pior: a barreira estava a desaparecer!<br>“As fibras são como cestos de vime; quando uma rompe, o <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">buraco</a> surge” citou num murmúrio o autor do livro que deixara para trás."
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "Decerto que o espirro tinha sido <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">estrondoso, </a> mas a sinusite do Vasco ainda não causava reações tão alarmantes como os súbitos gritos que o fizeram saltar da <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">cadeira</a> e abandonar a sala com o Professor para constatar o pior: a barreira azul tinha um buraco e estava a desaparecer!<br>“Valha-nos <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">Santa</a> Banana Bárbara…” exclamou o Vasco."
+                            },
+                            {
+                                "Text": "Decerto que o <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">espirro</a> tinha sido estrondoso, mas a sinusite do Vasco ainda não causava reações tão alarmantes como os súbitos gritos que o fizeram saltar da cadeira e abandonar a sala com o <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">Professor</a> para constatar o pior: a barreira azul tinha um buraco e estava a <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">desaparecer!</a><br>“Valha-nos Santa Banana Bárbara…” exclamou o Vasco."
+                            },
+                            {
+                                "Text": "Decerto que o espirro tinha sido estrondoso, mas a sinusite do <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">Vasco</a> ainda não causava reações tão alarmantes como os súbitos gritos que o fizeram saltar da cadeira e abandonar a sala com o Professor para constatar o pior: a <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">Barreira</a> azul tinha um buraco e estava a desaparecer!<br>“Valha-nos Santa Banana Bárbara…” exclamou o <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">Vasco</a>."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "Part": {
+                "Variant": [
+                    {
+                        "Version": [
+                            {
+                                "Text": "“O que se passa Com a <a class=\"a\" id=\"big\" href=\"5.html\" onclick=\"pathA()\">barreira?</a>”, perguntou alguém. “É o fim! Vamos todos morrer!”, outro alguém gritou.<br>“<a class=\"b\" id=\"big\" href=\"5.html\" onclick=\"pathB()\">Vasco</a>”, chamou o Professor, “algo de errado não está certo com a Tribo das Bananas. Temos de fazer alguma coisa.”<br>“Nós?! Mas nem sequer <a class=\"c\" id=\"big\" href=\"5.html\" onclick=\"pathC()\">sabemos</a> onde mora a tribo!”, contrapôs o Vasco.<br>“Vasco, um historiador nunca diz que não sabe. E quando não sabe, vai à procura!”"
+                            },
+                            {
+                                "Text": "“O que se passa Com a barreira?”, perguntou <a class=\"a\" id=\"big\" href=\"5.html\" onclick=\"pathA()\">alguém</a>. “É o fim! Vamos todos morrer!”, outro alguém gritou.<br>“Vasco”, chamou o <a class=\"b\" id=\"big\" href=\"5.html\" onclick=\"pathB()\">Professor</a>, “algo de errado não está certo com a Tribo das Bananas. Temos de fazer alguma coisa.”<br>“Nós?! Mas nem sequer sabemos onde mora a tribo!”, contrapôs o Vasco.<br>“Vasco, um historiador nunca diz que não <a class=\"c\" id=\"big\" href=\"5.html\" onclick=\"pathC()\">sabe</a>. E quando não sabe, vai à procura!”"
+                            },
+                            {
+                                "Text": "“O que se passa Com a barreira?”, perguntou alguém. “É o fim! <a class=\"a\" id=\"big\" href=\"5.html\" onclick=\"pathA()\">Vamos</a> todos morrer!”, outro alguém gritou.<br>“Vasco”, chamou o Professor, “algo de <a class=\"b\" id=\"big\" href=\"5.html\" onclick=\"pathB()\">errado</a> não está certo com a Tribo das Bananas. Temos de fazer alguma coisa.”<br>“Nós?! Mas nem sequer sabemos onde mora a tribo!”, contrapôs o Vasco.<br>“Vasco, um historiador nunca diz que não sabe. E quando não sabe, vai à <a class=\"c\" id=\"big\" href=\"5.html\" onclick=\"pathC()\">procura</a>!”"
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "“Vamos <a class=\"a\" id=\"big\" href=\"5.html\" onclick=\"pathA()\">morrer</a>! A barreira está a deixar-nos visíveis… Vamos ser invadidos!”, gritavam aflitas as pessoas.<br>“Vasco”, chamou o <a class=\"b\" id=\"big\" href=\"5.html\" onclick=\"pathB()\">Professor</a>, “a Tribo das Bananas não está bem, precisamos de agir!” <br>O horror! Agir sem saber para onde ir ou o que fazer era o prato cheio de ansiedade para o Vasco. <br>Mas, se o Professor tinha um plano, <a class=\"c\" id=\"big\" href=\"5.html\" onclick=\"pathC()\">então</a> nele o Vasco confiava."
+                            },
+                            {
+                                "Text": "“Vamos morrer! A <a class=\"a\" id=\"big\" href=\"5.html\" onclick=\"pathA()\">barreira</a> está a deixar-nos visíveis… Vamos ser invadidos!”, gritavam aflitas as pessoas.<br>“Vasco”, chamou o Professor, “a Tribo das Bananas não está bem, <a class=\"b\" id=\"big\" href=\"5.html\" onclick=\"pathB()\">precisamos</a> de agir!” <br>O horror! Agir sem saber para onde ir ou o que fazer era o prato cheio de ansiedade para o Vasco. <br>Mas, se o Professor tinha um <a class=\"c\" id=\"big\" href=\"5.html\" onclick=\"pathC()\">plano</a>, então nele o Vasco confiava."
+                            },
+                            {
+                                "Text": "“Vamos morrer! A barreira está a deixar-nos <a class=\"a\" id=\"big\" href=\"5.html\" onclick=\"pathA()\">visíveis…</a> Vamos ser invadidos!”, gritavam aflitas as pessoas.<br>“Vasco”, <a class=\"b\" id=\"big\" href=\"5.html\" onclick=\"pathB()\">chamou</a> o Professor, “a Tribo das Bananas não está bem, precisamos de agir!” <br>O horror! Agir sem saber para onde ir ou o que fazer era o prato cheio de ansiedade para o Vasco. <br>Mas, se o Professor tinha um plano, então nele o <a class=\"c\" id=\"big\" href=\"5.html\" onclick=\"pathC()\">Vasco</a> confiava."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "Part": {
+                "Variant": [
+                    {
+                        "Version": [
+                            {
+                                "Text": "Ser professor <a class=\"a\" id=\"big\" href=\"6.html\" onclick=\"pathA()\">historiador</a> número um permite alguns privilégios e, um deles, é o acesso total à biblioteca real onde o Rei <a class=\"b\" id=\"big\" href=\"6.html\" onclick=\"pathB()\">Macaco</a> guardava os documentos mais importantes. <br>“Aqui está!”, exclamou Goulan. “O mapa do Tesouro Real: a terra da Tribo das Bananas. Tal como eu <a class=\"c\" id=\"big\" href=\"6.html\" onclick=\"pathC()\">suspeitava</a>.” Já tinham o mapa, era altura de se porem a caminho."
+                            },
+                            {
+                                "Text": "Ser professor historiador número um <a class=\"a\" id=\"big\" href=\"6.html\" onclick=\"pathA()\">permite</a> alguns privilégios e, um deles, é o acesso total à <a class=\"b\" id=\"big\" href=\"6.html\" onclick=\"pathB()\">biblioteca</a> real onde o Rei Macaco guardava os documentos mais importantes. <br>“Aqui está!”, exclamou Goulan. “O mapa do Tesouro Real: a terra da Tribo das Bananas. Tal como eu suspeitava.” Já tinham o mapa, era altura de se <a class=\"c\" id=\"big\" href=\"6.html\" onclick=\"pathC()\">porem</a> a caminho."
+                            },
+                            {
+                                "Text": "Ser professor historiador número um permite alguns <a class=\"a\" id=\"big\" href=\"6.html\" onclick=\"pathA()\">privilégios</a> e, um deles, é o acesso total à biblioteca real onde o Rei Macaco <a class=\"b\" id=\"big\" href=\"6.html\" onclick=\"pathB()\">guardava</a> os documentos mais importantes. <br>“Aqui está!”, exclamou Goulan. “O mapa do Tesouro Real: a terra da Tribo das Bananas. Tal como eu suspeitava.” Já tinham o mapa, era <a class=\"c\" id=\"big\" href=\"6.html\" onclick=\"pathC()\">altura</a> de se porem a caminho."
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "Não fosse a acompanhar o Professor e o Vasco nunca teria entrado na biblioteca real onde estavam guardados os mais importantes documentos. <br>“É esse o mapa que os vai levar à Tribo das Bananas?” perguntou, a medo, a <a class=\"b\" id=\"big\" href=\"6.html\" onclick=\"pathB()\">Goulan</a>. Estava receoso, mas preparado; era hora de se <a class=\"c\" id=\"big\" href=\"6.html\" onclick=\"pathC()\">fazerem</a> à estrada!"
+                            },
+                            {
+                                "Text": "Não fosse a acompanhar o Professor e o Vasco nunca teria entrado na biblioteca real onde estavam guardados os mais importantes documentos. <br>“É esse o mapa que os vai levar à Tribo das <a class=\"b\" id=\"big\" href=\"6.html\" onclick=\"pathB()\">Bananas</a>?” perguntou, a medo, a Goulan. Estava receoso, mas <a class=\"c\" id=\"big\" href=\"6.html\" onclick=\"pathC()\">preparado</a>; era hora de se fazerem à estrada!"
+                            },
+                            {
+                                "Text": "Não fosse a acompanhar o Professor e o <a class=\"a\" id=\"big\" href=\"6.html\" onclick=\"pathA()\">Vasco</a> nunca teria entrado na biblioteca real onde estavam guardados os mais importantes documentos. <br>“É esse o <a class=\"b\" id=\"big\" href=\"6.html\" onclick=\"pathB()\">mapa</a> que os vai levar à Tribo das Bananas?” perguntou, a medo, a Goulan. Estava <a class=\"c\" id=\"big\" href=\"6.html\" onclick=\"pathC()\">receoso</a>, mas preparado; era hora de se fazerem à estrada!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "Part": {
+                "Variant": [
+                    {
+                        "Version": [
+                            {
+                                "Text": "Para quem acha que ser <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">historiador</a> é fácil, quer estudar povos e mudos desconhecidos e não sabe ler mapas, fica aqui o aviso: <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">prepare-se</a> para se perder.<br>Foi o que aconteceu com o Professor que, apesar de sábio, tinha um péssimo sentido de orientação. Por sorte do azar, lá conseguiram sair dos trilhos de mato e arvoredo e chegar à doca onde estavam atracados os barcos de pesca.<br>“Desculpe”, alguém cutucou o ombro do <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">Professor</a> Goulan, “sabe dizer-me onde é o Observatório?”<br>Oh não… um estrageiro! "
+                            },
+                            {
+                                "Text": "Para quem acha que ser historiador é fácil, quer <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">estudar</a> povos e mudos desconhecidos e não sabe ler mapas, fica aqui o aviso: prepare-se para se perder.<br>Foi o que aconteceu com o Professor que, apesar de sábio, tinha um péssimo sentido de <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">orientação</a>. Por sorte do azar, lá conseguiram sair dos trilhos de mato e arvoredo e chegar à doca onde estavam atracados os barcos de pesca.<br>“Desculpe”, alguém cutucou o ombro do Professor Goulan, “sabe dizer-me onde é o Observatório?”<br>Oh não… um <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">estrageiro</a>! "
+                            },
+                            {
+                                "Text": "Para quem <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">acha</a> que ser historiador é fácil, quer estudar povos e mudos desconhecidos e não sabe ler mapas, fica aqui o aviso: prepare-se para se perder.<br>Foi o que aconteceu com o Professor que, apesar de sábio, tinha um péssimo sentido de orientação. Por sorte do azar, lá conseguiram sair dos trilhos de mato e arvoredo e chegar à doca onde estavam <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">atracados</a> os barcos de pesca.<br>“Desculpe”, alguém cutucou o ombro do Professor Goulan, “sabe dizer-me onde é o <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">Observatório</a>?”<br>Oh não… um estrageiro! "
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "Ler um mapa do <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">tesouro</a> era mais difícil do que parecia, tanto que nem o Professor, nem o Vasco conseguiram evitar perder-se.<br>Quando <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">finalmente</a> saíram dos trilhos de mato e arvoredo, chegaram à doca onde estavam atracados os barcos de pesca. <br>“Desculpa”, alguém cutucou o ombro do Vasco, “podes dizer-me onde fica o Observatório?” <br>Um… desconhecido?!"
+                            },
+                            {
+                                "Text": "Ler um mapa do tesouro era mais difícil do que <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">parecia</a>, tanto que nem o Professor, nem o Vasco conseguiram evitar perder-se.<br>Quando finalmente saíram dos trilhos de mato e <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">arvoredo</a>, chegaram à doca onde estavam atracados os barcos de pesca. <br>“Desculpa”, alguém cutucou o ombro do Vasco, “podes dizer-me onde fica o Observatório?” <br>Um… desconhecido?!"
+                            },
+                            {
+                                "Text": "Ler um mapa do tesouro era mais difícil do que parecia, tanto que nem o <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">Professor</a>, nem o Vasco conseguiram evitar perder-se.<br>Quando finalmente saíram dos trilhos de mato e arvoredo, chegaram à doca onde estavam atracados os barcos de pesca. <br>“<a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">Desculpa”</a>, alguém cutucou o ombro do Vasco, “podes dizer-me onde fica o Observatório?” <br>Um… desconhecido?!"
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "Estava difícil encontrar uma alma viva que pudesse dar direções, o que era <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">estranho</a>, já que o suposto era estivesse uma multidão na doca numa manhã de quarta-feira. <br>“<a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">Estranho…”</a>, pensou. Tinha acabado de chegar à ilha e estava perdida, até que avistou um senhor baixo e gordinho acompanhado de… alguém muito alto… Seria uma girafa? <br>“Desculpe”, chamou cutucando o ombro do mais baixo, “sabe dizer-me onde é o <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">Observatório</a>?”"
+                            },
+                            {
+                                "Text": "Estava difícil encontrar uma alma viva que <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">pudesse</a> dar direções, o que era estranho, já que o suposto era estivesse uma <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">multidão</a> na doca numa manhã de quarta-feira. <br>“Estranho…”, pensou. Tinha acabado de chegar à ilha e estava perdida, até que avistou um senhor baixo e gordinho acompanhado de… alguém muito alto… Seria uma girafa? <br>“Desculpe”, chamou <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">cutucando</a> o ombro do mais baixo, “sabe dizer-me onde é o Observatório?”"
+                            },
+                            {
+                                "Text": "Estava <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">difícil</a> encontrar uma alma viva que pudesse dar direções, o que era estranho, já que o <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">suposto</a> era estivesse uma multidão na doca numa manhã de quarta-feira. <br>“Estranho…”, pensou. Tinha acabado de chegar à ilha e estava perdida, até que avistou um senhor baixo e gordinho acompanhado de… alguém muito alto… Seria uma girafa? <br>“Desculpe”, chamou cutucando o ombro do mais <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">baixo</a>, “sabe dizer-me onde é o Observatório?”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "Part": {
+                "Variant": [
+                    {
+                        "Version": [
+                            {
+                                "Text": "Um desconhecido na ilha só podia <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">significar</a> uma coisa para o historiador: aqui há gato. Não deveria haver ninguém na ilha para além dos seus residentes…<br>“A menina é de cá?”, questionou Goulan.<br>“Não, acabei de chegar. Chamo-me <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">Emília</a> Cadente e vim à procura de uma boa história! Ouvi falar de uma ilha protegida por uma magia ancestral e fiquei interessada: segundo a lenda, a cada mil anos, aquando do alinhamento das estrelas, a ilha <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">invisível</a> aparece, revelando os seus segredos. Giro! Vocês são de cá?”, tagarelou a desconhecida."
+                            },
+                            {
+                                "Text": "Um <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">desconhecido</a> na ilha só podia significar uma coisa para o historiador: aqui há gato. Não deveria haver ninguém na ilha para além dos seus residentes…<br>“A menina é de cá?”, questionou Goulan.<br>“Não, acabei de chegar. Chamo-me Emília Cadente e vim à <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">procura</a> de uma boa história! Ouvi falar de uma ilha protegida por uma magia ancestral e fiquei interessada: segundo a lenda, a cada mil anos, aquando do alinhamento das estrelas, a ilha invisível aparece, revelando os seus segredos. Giro! Vocês são de cá?”, <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">tagarelou</a> a desconhecida."
+                            },
+                            {
+                                "Text": "Um desconhecido na ilha só podia significar uma coisa para o <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">historiador</a>: aqui há gato. Não deveria haver ninguém na ilha para além dos seus residentes…<br>“A menina é de cá?”, questionou Goulan.<br>“Não, acabei de chegar. Chamo-me Emília Cadente e vim à procura de uma boa <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">história</a>! Ouvi falar de uma ilha protegida por uma magia ancestral e fiquei interessada: segundo a lenda, a cada mil anos, aquando do <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">alinhamento</a> das estrelas, a ilha invisível aparece, revelando os seus segredos. Giro! Vocês são de cá?”, tagarelou a desconhecida."
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "Como é que o Professor estava tão calmo na <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">presença</a> de um estranho?! O Vasco estava aterrorizado; não deveria haver ninguém na ilha para além dos seus residentes…<br>“Q-quem és tu?”, perguntou ele a medo.<br>“Chamo-me Emília Cadente e vim à procura de uma boa <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">história</a>! Ouvi falar de uma ilha protegida por uma magia ancestral e fiquei interessada: segundo a lenda, a cada mil anos, aquando do alinhamento das estrelas, a ilha invisível aparece, revelando os seus segredos. Giro! Vocês são de cá?”, <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">tagarelou</a> a desconhecida."
+                            },
+                            {
+                                "Text": "Como é que o <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">Professor</a> estava tão calmo na presença de um estranho?! O Vasco estava aterrorizado; não deveria haver ninguém na ilha para além dos seus residentes…<br>“Q-quem és tu?”, <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">perguntou</a> ele a medo.<br>“Chamo-me Emília Cadente e vim à procura de uma boa história! Ouvi falar de uma ilha protegida por uma magia ancestral e fiquei interessada: segundo a lenda, a cada mil anos, aquando do alinhamento das estrelas, a ilha invisível aparece, <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">revelando</a> os seus segredos. Giro! Vocês são de cá?”, tagarelou a desconhecida."
+                            },
+                            {
+                                "Text": "Como é que o Professor estava tão calmo na <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">presença</a> de um estranho?! O Vasco estava aterrorizado; não deveria haver ninguém na ilha para além dos seus residentes…<br>“Q-quem és tu?”, perguntou ele a medo.<br>“Chamo-me Emília Cadente e vim à <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">procura</a> de uma boa história! Ouvi falar de uma ilha protegida por uma magia ancestral e fiquei interessada: segundo a lenda, a cada mil anos, aquando do <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">alinhamento</a> das estrelas, a ilha invisível aparece, revelando os seus segredos. Giro! Vocês são de cá?”, tagarelou a desconhecida."
+                            }
+                        ]
+                    },
+                    {
+                        "Version": [
+                            {
+                                "Text": "O sobrolho <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">franzido</a> do senhor baixo e gordinho e o ar de gato assustado do “rapaz girafa” não foram as melhores boas-vindas que a <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">Emília</a> recebera. Não estava à espera de uma festa, mas acolherem-na de braços cruzados? Havia qualquer coisa que não batia certo, e a Emília ia descobrir o que era. Tinha viajado para aquela ilha à procura de uma boa história e parecia-lhe ter encontrado uma: uma lendária ilha invisível que <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">aparecia</a> a cada mil anos, aquando do alinhamento das estrelas, revelando os seus segredos. Seria verdade?"
+                            },
+                            {
+                                "Text": "O sobrolho franzido do senhor baixo e <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">gordinho</a> e o ar de gato assustado do “rapaz girafa” não foram as melhores boas-vindas que a Emília recebera. Não estava à espera de uma <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">festa</a>, mas acolherem-na de braços cruzados? Havia qualquer coisa que não batia certo, e a Emília ia descobrir o que era. Tinha viajado para aquela ilha à procura de uma boa história e parecia-lhe ter encontrado uma: uma lendária ilha invisível que aparecia a cada mil anos, aquando do alinhamento das estrelas, revelando os seus <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">segredos</a>. Seria verdade?"
+                            },
+                            {
+                                "Text": "O sobrolho franzido do senhor baixo e gordinho e o ar de gato <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">assustado</a> do “rapaz girafa” não foram as melhores boas-vindas que a Emília recebera. Não estava à espera de uma festa, mas acolherem-na de braços <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">cruzados</a>? Havia qualquer coisa que não batia certo, e a Emília ia descobrir o que era. Tinha viajado para aquela ilha à procura de uma boa história e parecia-lhe ter encontrado uma: uma lendária ilha invisível que aparecia a cada mil anos, aquando do <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">alinhamento</a> das estrelas, revelando os seus segredos. Seria verdade?"
                             }
                         ]
                     }
