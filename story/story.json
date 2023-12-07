@@ -14,7 +14,8 @@
                             {
                                 "Text": "Algures, o meio do mar, há um lugar de que nunca se ouviu <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"pathA()\" >falar</a> – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos peculiares, esconde um segredo: está <a href=\"1.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">camuflada</a> por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena comunidade secreta: a Tribo das Bananas."
                             }
-                        ]
+                        ],
+                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1182274408807677962/0.jpg"
                     }
                 ]
             }
@@ -33,7 +34,8 @@
                             {
                                 "Text": "Esta ilha desconhecida vive em paz e o seu <a class=\"a\" id=\"big\" href=\"2.html\" onclick=\"pathA()\">povo</a>, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">distância</a> das janelas da biblioteca."
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182282403792834650/1.b.jpeg"
                     },
                     {
                         "Version": [
@@ -46,7 +48,8 @@
                             {
                                 "Text": "Esta ilha desconhecida vive em paz e o seu <a class=\"a\" href=\"2.html\" id=\"big\" onclick=\"pathA()\" >povo</a>, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">habitantes</a>. Enquanto o céu não cair, todos são felizes."
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182282403792834650/1.b.jpeg"
                     }
                 ]
             }
@@ -65,7 +68,8 @@
                             {
                                 "Text": "Sheldon <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">Goulan</a>, professor e historiador, é um dos poucos ilhences que leva uma vida silenciosa; passa horas na sua biblioteca a estudar os costumes e hábitos da Tribo das Bananas, o sagrado povo <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">ancestral</a> da Ilha Azul.<br>“Assim o disse Bananis Lobios I, primeiro mago da tribo: ‘Protegeremos com ciano o que de mais sagrado nos oferece esta terra’ e desde então se mantém escondido”, citou o Professor.<br>“ATCHIM!” espirrou Vasco Pimentinha, o seu estudante e aprendiz.<br>“Salve-te a Banana Mágica”, saudou-o Goulan.<br>"
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182280971412848712/3-a.jpeg"
                     },
                     {
                         "Version": [
@@ -78,7 +82,8 @@
                             {
                                 "Text": "Pimentinha, ou o Vasco, é ajudante e aprendiz do Professor <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">Goulan</a>, um sábio historiador famoso entre os habitantes da ilha.<br>“Atchim!”, espirrou novamente. “Peço desculpa, Professor, esta <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">sinusite</a> dá cabo de mim…”<br>“Salve-te a Banana Mágica”, saudou-o o historiador. “Concentra-te.”"
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182280971941322802/3-b.jpeg"
                     }
                 ]
             }
@@ -97,7 +102,8 @@
                             {
                                 "Text": "A calmaria costumeira das manhãs <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">solarengas</a> de quarta-feira foi bruscamente interrompida por súbitos gritos de desespero que fizeram ambos professor e aprendiz abandonar a biblioteca para constatar a <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">desgraça</a> que estava a acontecer: a barreira protetora tinha um buraco e estava a <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">desaparecer</a>!"
                             }
-                        ]
+                        ],
+                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1182275605186760805/4-a.jpg"
                     },
                     {
                         "Version": [
@@ -110,7 +116,8 @@
                             {
                                 "Text": "O espirro do Pimetinha não atrapalhou a leitura, mas os <a class=\"a\" id=\"big\" href=\"4.html\" onclick=\"pathA()\">súbitos</a> gritos de desespero que se fizeram ouvir fizeram o Professor abandonar o último volume da coleção “Magia em <a class=\"b\" id=\"big\" href=\"4.html\" onclick=\"pathB()\">Fibra</a> de Potássio” e constatar o pior: a barreira estava a desaparecer!<br>“As fibras são como cestos de vime; quando uma rompe, o <a class=\"c\" id=\"big\" href=\"4.html\" onclick=\"pathC()\">buraco</a> surge” citou num murmúrio o autor do livro que deixara para trás."
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182275605761359893/4-b.jpg"
                     },
                     {
                         "Version": [
@@ -142,7 +149,8 @@
                             {
                                 "Text": "“O que se passa Com a barreira?”, perguntou alguém. “É o fim! <a class=\"a\" id=\"big\" href=\"5.html\" onclick=\"pathA()\">Vamos</a> todos morrer!”, outro alguém gritou.<br>“Vasco”, chamou o Professor, “algo de <a class=\"b\" id=\"big\" href=\"5.html\" onclick=\"pathB()\">errado</a> não está certo com a Tribo das Bananas. Temos de fazer alguma coisa.”<br>“Nós?! Mas nem sequer sabemos onde mora a tribo!”, contrapôs o Vasco.<br>“Vasco, um historiador nunca diz que não sabe. E quando não sabe, vai à <a class=\"c\" id=\"big\" href=\"5.html\" onclick=\"pathC()\">procura</a>!”"
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182277602753392650/5-a.jpg"
                     },
                     {
                         "Version": [
@@ -155,7 +163,8 @@
                             {
                                 "Text": "“Vamos morrer! A barreira está a deixar-nos <a class=\"a\" id=\"big\" href=\"5.html\" onclick=\"pathA()\">visíveis…</a> Vamos ser invadidos!”, gritavam aflitas as pessoas.<br>“Vasco”, <a class=\"b\" id=\"big\" href=\"5.html\" onclick=\"pathB()\">chamou</a> o Professor, “a Tribo das Bananas não está bem, precisamos de agir!” <br>O horror! Agir sem saber para onde ir ou o que fazer era o prato cheio de ansiedade para o Vasco. <br>Mas, se o Professor tinha um plano, então nele o <a class=\"c\" id=\"big\" href=\"5.html\" onclick=\"pathC()\">Vasco</a> confiava."
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182277602120052746/5-b.jpg"
                     }
                 ]
             }
@@ -174,7 +183,8 @@
                             {
                                 "Text": "Ser professor historiador número um permite alguns <a class=\"a\" id=\"big\" href=\"6.html\" onclick=\"pathA()\">privilégios</a> e, um deles, é o acesso total à biblioteca real onde o Rei Macaco <a class=\"b\" id=\"big\" href=\"6.html\" onclick=\"pathB()\">guardava</a> os documentos mais importantes. <br>“Aqui está!”, exclamou Goulan. “O mapa do Tesouro Real: a terra da Tribo das Bananas. Tal como eu suspeitava.” Já tinham o mapa, era <a class=\"c\" id=\"big\" href=\"6.html\" onclick=\"pathC()\">altura</a> de se porem a caminho."
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182278858796449863/6-a.jpg"
                     },
                     {
                         "Version": [
@@ -187,7 +197,8 @@
                             {
                                 "Text": "Não fosse a acompanhar o Professor e o <a class=\"a\" id=\"big\" href=\"6.html\" onclick=\"pathA()\">Vasco</a> nunca teria entrado na biblioteca real onde estavam guardados os mais importantes documentos. <br>“É esse o <a class=\"b\" id=\"big\" href=\"6.html\" onclick=\"pathB()\">mapa</a> que os vai levar à Tribo das Bananas?” perguntou, a medo, a Goulan. Estava <a class=\"c\" id=\"big\" href=\"6.html\" onclick=\"pathC()\">receoso</a>, mas preparado; era hora de se fazerem à estrada!"
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182278859517874287/6-b.jpg"
                     }
                 ]
             }
@@ -206,7 +217,8 @@
                             {
                                 "Text": "Para quem <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">acha</a> que ser historiador é fácil, quer estudar povos e mudos desconhecidos e não sabe ler mapas, fica aqui o aviso: prepare-se para se perder.<br>Foi o que aconteceu com o Professor que, apesar de sábio, tinha um péssimo sentido de orientação. Por sorte do azar, lá conseguiram sair dos trilhos de mato e arvoredo e chegar à doca onde estavam <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">atracados</a> os barcos de pesca.<br>“Desculpe”, alguém cutucou o ombro do Professor Goulan, “sabe dizer-me onde é o <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">Observatório</a>?”<br>Oh não… um estrageiro! "
                             }
-                        ]
+                        ],
+                        "Image":""
                     },
                     {
                         "Version": [
@@ -219,7 +231,8 @@
                             {
                                 "Text": "Ler um mapa do tesouro era mais difícil do que parecia, tanto que nem o <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">Professor</a>, nem o Vasco conseguiram evitar perder-se.<br>Quando finalmente saíram dos trilhos de mato e arvoredo, chegaram à doca onde estavam atracados os barcos de pesca. <br>“<a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">Desculpa”</a>, alguém cutucou o ombro do Vasco, “podes dizer-me onde fica o Observatório?” <br>Um… desconhecido?!"
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182279116658049074/7-a.jpg"
                     },
                     {
                         "Version": [
@@ -232,7 +245,8 @@
                             {
                                 "Text": "Estava <a class=\"a\" id=\"big\" href=\"7.html\" onclick=\"pathA()\">difícil</a> encontrar uma alma viva que pudesse dar direções, o que era estranho, já que o <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">suposto</a> era estivesse uma multidão na doca numa manhã de quarta-feira. <br>“Estranho…”, pensou. Tinha acabado de chegar à ilha e estava perdida, até que avistou um senhor baixo e gordinho acompanhado de… alguém muito alto… Seria uma girafa? <br>“Desculpe”, chamou cutucando o ombro do mais <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">baixo</a>, “sabe dizer-me onde é o Observatório?”"
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182279115890507858/7-b.jpg"
                     }
                 ]
             }
@@ -251,7 +265,8 @@
                             {
                                 "Text": "Um desconhecido na ilha só podia significar uma coisa para o <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">historiador</a>: aqui há gato. Não deveria haver ninguém na ilha para além dos seus residentes…<br>“A menina é de cá?”, questionou Goulan.<br>“Não, acabei de chegar. Chamo-me Emília Cadente e vim à procura de uma boa <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">história</a>! Ouvi falar de uma ilha protegida por uma magia ancestral e fiquei interessada: segundo a lenda, a cada mil anos, aquando do <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">alinhamento</a> das estrelas, a ilha invisível aparece, revelando os seus segredos. Giro! Vocês são de cá?”, tagarelou a desconhecida."
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182279734399356998/8-a.jpeg"
                     },
                     {
                         "Version": [
@@ -264,7 +279,8 @@
                             {
                                 "Text": "Como é que o Professor estava tão calmo na <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">presença</a> de um estranho?! O Vasco estava aterrorizado; não deveria haver ninguém na ilha para além dos seus residentes…<br>“Q-quem és tu?”, perguntou ele a medo.<br>“Chamo-me Emília Cadente e vim à <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">procura</a> de uma boa história! Ouvi falar de uma ilha protegida por uma magia ancestral e fiquei interessada: segundo a lenda, a cada mil anos, aquando do <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">alinhamento</a> das estrelas, a ilha invisível aparece, revelando os seus segredos. Giro! Vocês são de cá?”, tagarelou a desconhecida."
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182279733841502268/8-b.jpeg"
                     },
                     {
                         "Version": [
@@ -277,7 +293,8 @@
                             {
                                 "Text": "O sobrolho franzido do senhor baixo e gordinho e o ar de gato <a class=\"a\" id=\"big\" href=\"8.html\" onclick=\"pathA()\">assustado</a> do “rapaz girafa” não foram as melhores boas-vindas que a Emília recebera. Não estava à espera de uma festa, mas acolherem-na de braços <a class=\"b\" id=\"big\" href=\"8.html\" onclick=\"pathB()\">cruzados</a>? Havia qualquer coisa que não batia certo, e a Emília ia descobrir o que era. Tinha viajado para aquela ilha à procura de uma boa história e parecia-lhe ter encontrado uma: uma lendária ilha invisível que aparecia a cada mil anos, aquando do <a class=\"c\" id=\"big\" href=\"8.html\" onclick=\"pathC()\">alinhamento</a> das estrelas, revelando os seus segredos. Seria verdade?"
                             }
-                        ]
+                        ],
+                        "Image":"https://cdn.discordapp.com/attachments/594581200249684084/1182279734948806676/8-c.jpeg"
                     }
                 ]
             }

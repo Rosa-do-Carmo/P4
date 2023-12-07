@@ -9,7 +9,7 @@ if (window.performance) {
     if (performance.navigation.type == 1) {
         var r = Math.floor(Math.random() * 3);
         var r1 = Math.floor(Math.random() * 3);
-        
+
     }
 };
 var v = localStorage.getItem("v");
@@ -21,6 +21,11 @@ document.querySelector('#textbox').innerHTML = p + '-' + v + '-' + r;
 fetch('../story/story.json')
     .then(response => response.json())
     .then(data => {
+        let out = "";
+            out += `
+        <img src='${data.Story[p].Part.Variant[v].Image}' />
+        `;
+        document.querySelector('#illust').innerHTML = out;
         document.querySelector('#texto').innerHTML = data.Story[p].Part.Variant[v].Version[r].Text
     });
 
