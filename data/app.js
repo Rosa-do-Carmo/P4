@@ -15,8 +15,7 @@ if (window.performance) {
 var v = localStorage.getItem("v");
 var p = location.pathname.split('/').pop().replace(/.html/gi, '');
 console.log(p + '-' + v + '-' + r)
-
-document.querySelector('#textbox').innerHTML = p + '-' + v + '-' + r;
+document.querySelector('#textbox').innerHTML = Number(p) + 1 + '/17';
 
 fetch('../story/story.json')
     .then(response => response.json())
