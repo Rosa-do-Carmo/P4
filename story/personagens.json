@@ -1,0 +1,28 @@
+{
+    "Personagem": [
+        {
+            "Personagem": {
+                "Nome": "<h1>Vasco<br>Pimentinha</h1>",
+                "Desc": "shafjhfskldhfklas",
+                "Image": "",
+                "Cor": "#f7743b"
+            }
+        },
+        {
+            "Personagem": {
+                "Nome": "<h1>Sérgio<br>Goulan</h1>",
+                "Desc": "ahsfkashflkhaslf",
+                "Image": "",
+                "Cor": "#569c66"
+            }
+        },
+        {
+            "Personagem": {
+                "Nome": "<h1>Emilia<br>Cadente</h1>",
+                "Desc": "shaffhlaskfh",
+                "Image": "",
+                "Cor": "#117a93"
+            }
+        }
+    ]
+}

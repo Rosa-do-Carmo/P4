@@ -14,6 +14,7 @@ if (window.performance) {
 };
 var v = localStorage.getItem("v");
 var p = location.pathname.split('/').pop().replace(/.html/gi, '');
+localStorage.setItem("p", p);
 console.log(p + '-' + v + '-' + r)
 document.querySelector('#textbox').innerHTML = Number(p) + 1 + '/17';
 
@@ -21,13 +22,12 @@ fetch('../story/story.json')
     .then(response => response.json())
     .then(data => {
         let out = "";
-            out += `
+        out += `
         <img src='${data.Story[p].Part.Variant[v].Image}' />
         `;
         document.querySelector('#illust').innerHTML = out;
         document.querySelector('#texto').innerHTML = data.Story[p].Part.Variant[v].Version[r].Text
     });
-
 // ------------------------------
 
 function insertAndExecute(id, text) {
