@@ -64,9 +64,9 @@ h2 {
   margin: 0 5vw auto auto;
   width: 60%;
   text-align: right;
-  line-height: 60%;
   font-size: 150%;
   font-family: titlefont;
+  margin-top: -4vh;
 }
 
 br {
@@ -97,11 +97,6 @@ nav {
   text-align: right;
   margin-bottom: 0;
   margin-top: auto;
-}
-
-a,
-a:visited {
-  text-decoration: none;
 }
 
 .a {
@@ -173,26 +168,22 @@ a {
 }
 
 #top-nav {
-  justify-content: unset;
-  width: 100%;
-  margin: 0 auto;
+  text-align: left;
+  padding-top: 4vh;
+  margin-left: 5vw;
 }
 
 hr {
   width: 100%;
   color: #093e4c;
-  border: #093e4c 1px solid;
-  margin-top: 0;
+  margin-top: 2vh;
 }
 
 #dot {
-  width: 20px;
-  height: 20px;
-  background-color: #117a93;
-  border-radius: 50%;
+  height: 100%;
   border: none;
-  margin-left: 0;
-  margin-right: 20px;
+  padding-top: 50%;
+  margin-left: 5vw;
 }
 
 #space {
@@ -204,18 +195,24 @@ h1 {
   margin: 0 auto;
   width: 60%;
   text-align: center;
-  padding-top: 10vh;
+  padding-top: 20vh;
   padding-bottom: 10vh;
   font-size: 200%;
   font-style: bold;
   font-family: titlefont;
 }
-
+#start-btn {
+  width: 100vw;
+  position: absolute;
+  display: flex;
+  margin: 50vh auto;
+}
 #start {
   width: 20vw;
   height: 10vh;
   line-height: 10vh;
   border-radius: 5vh;
+  margin: 0 auto;
 }
 
 footer {
@@ -233,4 +230,11 @@ footer {
   line-height: auto;
   background-color: #d2ceb7;
   text-align: left;
+}
+
+
+a,
+a:visited {
+  text-decoration: none;
+  color: #093e4c;
 }
