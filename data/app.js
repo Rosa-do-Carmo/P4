@@ -23,7 +23,7 @@ fetch('../story/story.json')
     .then(data => {
         let out = "";
         out += `
-        <img src='${data.Story[p].Part.Variant[v].Image}' />
+        <img src='data/images/${Number(p) + 1}-${Number(v)+1}.png' />
         `;
         document.querySelector('#illust').innerHTML = out;
         document.querySelector('#texto').innerHTML = data.Story[p].Part.Variant[v].Version[r].Text

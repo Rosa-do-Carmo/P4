@@ -15,7 +15,7 @@
                                 "Text": "Algures, o meio do mar, há um lugar de que nunca se ouviu <a class=\"a\" href=\"1.html\" id=\"big\" onclick=\"pathA()\" >falar</a> – a lendária Ilha Azul, uma ilha que, entre montanhas verdejantes e insetos peculiares, esconde um segredo: está <a href=\"1.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">camuflada</a> por uma barreira cor do céu e do mar, fruto de uma poderosa magia anciã proveniente de uma pequena comunidade secreta: a Tribo das Bananas."
                             }
                         ],
-                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1182274408807677962/0.jpg"
+                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1183734918585520168/1.png"
                     }
                 ]
             }
@@ -35,7 +35,7 @@
                                 "Text": "Esta ilha desconhecida vive em paz e o seu <a class=\"a\" id=\"big\" href=\"2.html\" onclick=\"pathA()\">povo</a>, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais habitantes. A felicidade nota-se à <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">distância</a> das janelas da biblioteca."
                             }
                         ],
-                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1182282403792834650/1.b.jpeg"
+                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1183735568937537576/2-1.png"
                     },
                     {
                         "Version": [
@@ -49,7 +49,7 @@
                                 "Text": "Esta ilha desconhecida vive em paz e o seu <a class=\"a\" href=\"2.html\" id=\"big\" onclick=\"pathA()\" >povo</a>, governado pelo respeitado Rei Macaco, coabita em harmonia e prosperidade com os demais <a href=\"2.html\" class=\"b\" id=\"big\" onclick=\"pathB()\">habitantes</a>. Enquanto o céu não cair, todos são felizes."
                             }
                         ],
-                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1182282403792834650/1.b.jpeg"
+                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1183735568937537576/2-1.png"
                     }
                 ]
             }
@@ -69,7 +69,7 @@
                                 "Text": "Sheldon <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">Goulan</a>, professor e historiador, é um dos poucos ilhences que leva uma vida silenciosa; passa horas na sua biblioteca a estudar os costumes e hábitos da Tribo das Bananas, o sagrado povo <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">ancestral</a> da Ilha Azul.<br>“Assim o disse Bananis Lobios I, primeiro mago da tribo: ‘Protegeremos com ciano o que de mais sagrado nos oferece esta terra’ e desde então se mantém escondido”, citou o Professor.<br>“ATCHIM!” espirrou Vasco Pimentinha, o seu estudante e aprendiz.<br>“Salve-te a Banana Mágica”, saudou-o Goulan.<br>"
                             }
                         ],
-                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1182280971412848712/3-a.jpeg"
+                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1183735740698464368/3-1.png"
                     },
                     {
                         "Version": [
@@ -83,7 +83,7 @@
                                 "Text": "Pimentinha, ou o Vasco, é ajudante e aprendiz do Professor <a class=\"a\" href=\"3.html\" id=\"big\" onclick=\"pathA()\">Goulan</a>, um sábio historiador famoso entre os habitantes da ilha.<br>“Atchim!”, espirrou novamente. “Peço desculpa, Professor, esta <a class=\"b\" href=\"3.html\" id=\"big\" onclick=\"pathB()\">sinusite</a> dá cabo de mim…”<br>“Salve-te a Banana Mágica”, saudou-o o historiador. “Concentra-te.”"
                             }
                         ],
-                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1182280971941322802/3-b.jpeg"
+                        "Image": "https://cdn.discordapp.com/attachments/594581200249684084/1183735740698464368/3-1.png"
                     }
                 ]
             }

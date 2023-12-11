@@ -14,9 +14,6 @@ fetch('../story/personagens.json')
         <style> main{
             background-color: ${data.Personagem[v].Personagem.Cor};
         }
-                h1{
-                    color: var(--bg);
-                } 
         </style>
         `;
         nav += `

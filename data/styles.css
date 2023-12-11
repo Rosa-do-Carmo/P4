@@ -1,6 +1,10 @@
 @font-face {
   font-family: titlefont;
-  src: url('Womby-Regular.ttf');
+  src: url('Eina01-Bold.ttf');
+}
+@font-face {
+  font-family: bodyfont;
+  src: url('Eina01-Regular.ttf');
 }
 
 :root {
@@ -12,7 +16,12 @@
   --bg: #d2ceb7;
 }
 
+h1{
+  color: var(--bg);
+} 
+
 body {
+  font-family: bodyfont;
   font-size: 200%;
   display: block;
   position: relative;
@@ -211,9 +220,7 @@ h1 {
 }
 
 #start {
-
-
-
+  color: var(--bg);
   margin: 0 auto;
 }
 
@@ -222,7 +229,7 @@ h1 {
   border-radius: 50%;
   width: 20vw;
   height: 10vh;
-  border: #093e4c 4px solid;
+  border: var(--bg) 4px solid;
 }
 
 #texto {

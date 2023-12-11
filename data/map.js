@@ -8,7 +8,7 @@ fetch('../story/personagens.json')
         let bg = "";
         let nav = "";
         out += `
-        <img src='${data.Personagem[v].Personagem.Image}' />
+        <img src='' />
         `;
         bg += `
         <style> 
@@ -32,8 +32,8 @@ fetch('../story/personagens.json')
         <h2>O segredo da Ilha</h2>
         `;
         document.querySelector('#top-nav').innerHTML = nav;
-        document.querySelector('#mapa').innerHTML = out;
-        document.querySelector('#mapa').innerHTML = bg;
+        //document.querySelector('#mapa').innerHTML = out;
+        //document.querySelector('#mapa').innerHTML = bg;
     });
 
 // ------------------------------
