@@ -3,6 +3,7 @@
         {
             "Personagem": {
                 "Nome": "<h1>Vasco<br>Pimentinha</h1>",
+                "Titulo": "Vasco Pimentinha",
                 "Desc": "shafjhfskldhfklas",
                 "Image": "",
                 "Cor": "#f7743b"
@@ -11,6 +12,7 @@
         {
             "Personagem": {
                 "Nome": "<h1>Sérgio<br>Goulan</h1>",
+                "Titulo": "Sérgio Goulan",
                 "Desc": "ahsfkashflkhaslf",
                 "Image": "",
                 "Cor": "#569c66"
@@ -19,6 +21,7 @@
         {
             "Personagem": {
                 "Nome": "<h1>Emilia<br>Cadente</h1>",
+                "Titulo": "Emilia Cadente",
                 "Desc": "shaffhlaskfh",
                 "Image": "",
                 "Cor": "#117a93"

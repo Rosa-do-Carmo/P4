@@ -31,7 +31,7 @@ body {
 }
 
 #wrapper {
-  z-index: 5;
+  position: absolute;
   width: 100%;
   height: 100%;
 }
@@ -39,6 +39,7 @@ body {
 
 header {
   height: 10vh;
+  border-bottom: #093e4c 4px solid;
 }
 
 main {
@@ -85,7 +86,7 @@ strong {
   display: flex;
   flex: right;
   width: 50%;
-  padding: 10% 5% 0 10%;
+  padding: 5% 5% 5%;
   height: 50vh;
 }
 
@@ -100,24 +101,30 @@ nav {
   margin-top: auto;
 }
 
+a,
+a:visited {
+  text-decoration: none;
+  color: #093e4c;
+}
+
 .a {
   font-size: 100%;
   background-color: var(--col3);
-  color: var(--bg);
+  color: var(--bg) !important;
   /* border: 2px solid var(--col1); */
 }
 
 .b {
   font-size: 100%;
   background-color: var(--col2);
-  color: var(--bg);
+  color: var(--bg) !important;
   /* border: 2px solid var(--col2); */
 }
 
 .c {
   font-size: 100%;
   background-color: var(--col1);
-  color: var(--bg);
+  color: var(--bg) !important;
   /* border: 2px solid var(--col3); */
 }
 
@@ -176,9 +183,9 @@ a {
 }
 
 hr {
+  display: none;
   width: 100%;
   color: #093e4c;
-  margin-top: 2vh;
 }
 
 #dot {
@@ -202,38 +209,32 @@ h1 {
   font-style: bold;
   font-family: titlefont;
 }
+
 #start-btn {
   width: 100vw;
   position: absolute;
   display: flex;
   margin: 50vh auto;
 }
+
 #start {
-  width: 20vw;
-  height: 10vh;
-  line-height: 10vh;
-  border-radius: 5vh;
+
+
+
   margin: 0 auto;
 }
 
-footer {
-  position: absolute;
-  height: 100px;
-  width: 100%;
-  background-image: url("https://cdn.discordapp.com/attachments/594581200249684084/1176118038270050374/wave.png");
-  background-repeat: repeat-x;
-  margin-bottom: 0;
-  bottom: 0;
+#start-nav {
+  line-height: 10vh;
+  border-radius: 50%;
+  width: 20vw;
+  height: 10vh;
+  border: #093e4c 4px solid;
 }
 
 #texto {
   font-size: 75%;
   line-height: auto;
-  background-color: #d2ceb7;
+  background-color: #d2ceb7b1;
   text-align: left;
-}
-
-a,a:visited {
-  text-decoration: none;
-  color: #093e4c;
 }

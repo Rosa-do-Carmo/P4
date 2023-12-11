@@ -31,6 +31,7 @@ fetch('../story/personagens.json')
         document.querySelector('#char').innerHTML = out;
         document.querySelector('#bg').innerHTML = bg;
         document.querySelector('#desc').innerHTML = data.Personagem[v].Personagem.Nome;
+        document.title = data.Personagem[v].Personagem.Titulo;
     });
 
 // ------------------------------
