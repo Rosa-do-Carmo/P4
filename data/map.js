@@ -11,12 +11,17 @@ fetch('../story/personagens.json')
         <img src='${data.Personagem[v].Personagem.Image}' />
         `;
         bg += `
-        <style> main{
+        <style> 
+        img {
+            width: 100vw;
+        }
+        main{
             background-color: ${data.Personagem[v].Personagem.Cor};
         }
                 h1{
                     color: var(--bg);
                 } 
+
         </style>
         `;
         nav += `
@@ -25,14 +30,10 @@ fetch('../story/personagens.json')
         <a id="dot" href="../${Number(p)}.html">Voltar</a>
         <a href="mapa.html" id="dot">Mapa</a>
         <h2>O segredo da Ilha</h2>
-        
         `;
         document.querySelector('#top-nav').innerHTML = nav;
-        document.querySelector('#char').innerHTML = out;
-        document.querySelector('#bg').innerHTML = bg;
-        document.querySelector('#nome').innerHTML = data.Personagem[v].Personagem.Nome;
-        document.querySelector('#desc').innerHTML = data.Personagem[v].Personagem.Desc;
-        document.title = data.Personagem[v].Personagem.Titulo;
+        document.querySelector('#mapa').innerHTML = out;
+        document.querySelector('#mapa').innerHTML = bg;
     });
 
 // ------------------------------

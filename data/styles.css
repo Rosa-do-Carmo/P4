@@ -17,8 +17,8 @@ body {
   display: block;
   position: relative;
   background-color: var(--bg);
-  background-color: #d6d3c9;
-  background-image: url("https://cdn.discordapp.com/attachments/594581200249684084/1178651731958169620/bg.png");
+  background-color: #d2ceb7;
+  /* background-image: url("https://cdn.discordapp.com/attachments/594581200249684084/1178651731958169620/bg.png"); */
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -168,13 +168,6 @@ a {
   align-content: start;
 }
 
-#progress-bar {
-  color: #d6d3c9;
-  background-color: #117a93;
-  width: 10%;
-  margin-left: 0;
-}
-
 #top-nav {
   z-index: 999;
   text-align: left;
@@ -235,6 +228,6 @@ h1 {
 #texto {
   font-size: 75%;
   line-height: auto;
-  background-color: #d2ceb7b1;
+  background-color: #d2ceb7;
   text-align: left;
 }
