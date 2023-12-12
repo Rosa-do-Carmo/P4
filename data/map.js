@@ -1,41 +1,31 @@
 var v = localStorage.getItem("v");
 var p = localStorage.getItem("p");
 
+//document.querySelector('#textbox').innerHTML = Number(p) + 1 + '/17';
 fetch('../story/personagens.json')
     .then(response => response.json())
     .then(data => {
-        let out = "";
-        let bg = "";
-        let nav = "";
-        out += `
-        <img src='' />
-        `;
-        bg += `
-        <style> 
-        img {
-            width: 100vw;
-        }
-        main{
-            background-color: ${data.Personagem[v].Personagem.Cor};
-        }
-                h1{
-                    color: var(--bg);
-                } 
-
-        </style>
-        `;
-        nav += `
+let nav = "";
+nav += `
         <a href="../index.html" id="dot">Início</a>
         <a id="dot" style="color: transparent;">Início</a>
+        <a href="personagem.html" id="dot">Personagem</a>
         <a id="dot" href="../${Number(p)}.html">Voltar</a>
-        <a href="mapa.html" id="dot">Mapa</a>
         <h2>O segredo da Ilha</h2>
+        
         `;
         document.querySelector('#top-nav').innerHTML = nav;
-        //document.querySelector('#mapa').innerHTML = out;
-        //document.querySelector('#mapa').innerHTML = bg;
     });
-
+fetch('../story/story.json')
+    .then(response => response.json())
+    .then(data => {
+        let out = "";
+        out += `
+        <img style="width: auto; height: 90vh;" src='../data/images/mapa${Number(p) + 1}.png' />
+        `;
+        document.querySelector('#char').innerHTML = out;
+        //document.querySelector('#texto').innerHTML = data.Story[p].Part.Variant[v].Version[r].Text
+    });
 // ------------------------------
 
 function insertAndExecute(id, text) {
