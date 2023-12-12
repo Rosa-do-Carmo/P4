@@ -8,7 +8,7 @@ fetch('../story/personagens.json')
 let nav = "";
 nav += `
         <a href="../index.html" id="dot">Início</a>
-        <a id="dot" style='pointer-events: none'>${Number(p) + 1} /16</a>
+        <a id="dot" style='pointer-events: none'>${Number(p) + 1} /17</a>
         <a href="personagem.html" id="dot">Personagem</a>
         <a id="dot" href="../${Number(p)}.html">Voltar</a>
         <h2>O segredo da Ilha</h2>
