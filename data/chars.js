@@ -22,7 +22,7 @@ fetch('../story/personagens.json')
         <a id="dot" style='pointer-events: none; color: transparent'>${Number(p) + 1} /17</a>
         <a id="dot" href="../${Number(p)}.html">Voltar</a>
         <a href="mapa.html" id="dot">Mapa</a>
-        <h2>O segredo da Ilha</h2>
+        <h2>O segredo da ilha</h2>
         
         `;
         document.querySelector('#top-nav').innerHTML = nav;
