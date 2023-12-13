@@ -16,9 +16,10 @@ fetch('../story/personagens.json')
         }
         </style>
         `;
+        // cabeçalho
         nav += `
         <a href="../index.html" id="dot">Início</a>
-        <a id="dot" style='pointer-events: none'>${Number(p) + 1} /17</a>
+        <a id="dot" style='pointer-events: none; color: transparent'>${Number(p) + 1} /17</a>
         <a id="dot" href="../${Number(p)}.html">Voltar</a>
         <a href="mapa.html" id="dot">Mapa</a>
         <h2>O segredo da Ilha</h2>
@@ -31,20 +32,3 @@ fetch('../story/personagens.json')
         document.querySelector('#desc').innerHTML = data.Personagem[v].Personagem.Desc;
         document.title = data.Personagem[v].Personagem.Titulo;
     });
-
-// ------------------------------
-
-function insertAndExecute(id, text) {
-    document.getElementById(id).innerHTML = text;
-    var scripts = Array.prototype.slice.call(document.getElementById(id).getElementsByTagName("script"));
-    for (var i = 0; i < scripts.length; i++) {
-        if (scripts[i].src != "") {
-            var tag = document.createElement("script");
-            tag.src = scripts[i].src;
-            document.getElementsByTagName("head")[0].appendChild(tag);
-        }
-        else {
-            eval(scripts[i].innerHTML);
-        }
-    }
-}

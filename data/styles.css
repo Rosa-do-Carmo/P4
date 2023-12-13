@@ -2,23 +2,29 @@
   font-family: titlefont;
   src: url('Eina01-Bold.ttf');
 }
+
 @font-face {
   font-family: bodyfont;
   src: url('Eina01-Regular.ttf');
 }
 
+@font-face {
+  font-family: textfont;
+  src: url('Eina01-SemiBold.ttf');
+}
+
 :root {
   font-family: sans-serif;
-  color: #093e4c;
+  color: #0C6A74;
   --col1: #117a93;
   --col2: #569c66;
   --col3: #f7743b;
   --bg: #d2ceb7;
 }
 
-h1{
+h1 {
   color: var(--bg);
-} 
+}
 
 body {
   font-family: bodyfont;
@@ -27,7 +33,6 @@ body {
   position: relative;
   background-color: var(--bg);
   background-color: #d2ceb7;
-  /* background-image: url("https://cdn.discordapp.com/attachments/594581200249684084/1178651731958169620/bg.png"); */
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -35,20 +40,21 @@ body {
   height: 100vh;
   margin: 0 auto;
   text-align: center;
-  color: #093e4c;
+  color: #0C6A74;
   overflow: hidden;
 }
 
 #wrapper {
-  position: absolute;
   width: 100%;
   height: 100%;
 }
 
 
 header {
+  line-height: 200%;
+  font-size: 75%;
   height: 10vh;
-  border-bottom: #093e4c 4px solid;
+  /* border-bottom: #093e4c 4px solid; */
 }
 
 main {
@@ -62,12 +68,13 @@ main {
 
 article {
   width: 50vw;
-  height: auto;
+  z-index: 9;
 }
 
 img {
+  background-color: var(--bg);
+  width: 108%;
   height: auto;
-  width: 50vw;
 }
 
 h2 {
@@ -85,18 +92,16 @@ br {
 }
 
 strong {
-  border: 1px #9d9d9d solid;
-  border-radius: 10%;
-  padding-left: 1%;
-  padding-right: 1%;
+  font-family: textfont;
 }
 
 #boxes {
+  border-top: #0C6A74 4px solid;
   display: flex;
   flex: right;
   width: 50%;
   padding: 5% 5% 5%;
-  height: 50vh;
+  height: auto;
 }
 
 nav {
@@ -104,16 +109,17 @@ nav {
 }
 
 #textbox {
-  display: flex;
   text-align: right;
   margin-bottom: 0;
-  margin-top: auto;
+  margin-top: 80vh;
+  margin-left: 90vw;
+  position: absolute;
 }
 
 a,
 a:visited {
   text-decoration: none;
-  color: #093e4c;
+  color: #0C6A74;
 }
 
 .a {
@@ -178,10 +184,9 @@ a {
 }
 
 #top-nav {
-  z-index: 999;
+  font-family: textfont;
   text-align: left;
   margin-top: 4vh;
-  margin-left: 5vw;
 }
 
 hr {
@@ -214,6 +219,7 @@ h1 {
 
 #start-btn {
   width: 100vw;
+  font-family: textfont;
   position: absolute;
   display: flex;
   margin: 50vh auto;
@@ -233,8 +239,9 @@ h1 {
 }
 
 #texto {
+  font-family: textfont;
   font-size: 75%;
-  line-height: auto;
+  line-height: 2rem;
   background-color: #d2ceb7;
   text-align: left;
 }
