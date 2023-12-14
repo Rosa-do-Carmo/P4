@@ -4,7 +4,7 @@
             "Personagem": {
                 "Nome": "<h1>Vasco<br>Pimentinha</h1>",
                 "Titulo": "Vasco Pimentinha",
-                "Desc": "",
+                "Desc": "Ajudante do professor Goulan<br>Picuinhas, vaidoso e desastrado<br>Tem sinusite<br>Anda sempre com chá anti-inflamatório<br>Reside na Ilha",
                 "Image": "",
                 "Cor": "#f7743b"
             }
@@ -13,7 +13,7 @@
             "Personagem": {
                 "Nome": "<h1>Sérgio<br>Goulan</h1>",
                 "Titulo": "Sérgio Goulan",
-                "Desc": "",
+                "Desc": "Professor e historiador<br>Sábio, intelectual e sedentário<br>Odeia correr e astrologia<br>Reside na Ilha",
                 "Image": "",
                 "Cor": "#569c66"
             }
@@ -22,7 +22,7 @@
             "Personagem": {
                 "Nome": "<h1>Emilia<br>Cadente</h1>",
                 "Titulo": "Emilia Cadente",
-                "Desc": "",
+                "Desc": "Estudante de artes de palco<br>Esperta, teimosa e determinada<br>Adora coisas místicas<br>Não reside na Ilha",
                 "Image": "",
                 "Cor": "#117a93"
             }
