@@ -198,9 +198,12 @@ a {
 }
 
 hr {
-  display: none;
-  width: 100%;
-  color: #093e4c;
+  display: block;
+  height: 1vh;
+  margin: 0;
+  /* width: 100%; */
+  background-color: #0C6A74;
+  color: transparent; /* #093e4c; */
 }
 
 #dot {

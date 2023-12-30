@@ -19,6 +19,12 @@ if (window.performance) {
     }
 };
 
+
+// barra de progresso
+const progressBar = document.querySelector('hr');
+progressBar.style.width = `${(Number(p) * 100) / 17}%`;
+
+
 //cabeçalho
 console.log(p + '-' + v + '-' + r)
 document.querySelector('#textbox').innerHTML = '<strong> ' + (Number(p) + 1) + '</strong>/17';
